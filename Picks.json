@@ -192,61 +192,61 @@
         "traded": false
     },
     {
-        "team": "Titans",
+        "team": "Browns",
         "number": 33,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Browns",
+        "team": "Giants",
         "number": 34,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Giants",
+        "team": "Titans",
         "number": 35,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Patriots",
+        "team": "Jaguars",
         "number": 36,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Jaguars",
+        "team": "Raiders",
         "number": 37,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Raiders",
+        "team": "Patriots",
         "number": 38,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Jets",
+        "team": "Bears",
         "number": 39,
         "round": 2,
-        "traded": false
+        "traded": true
     },
     {
-        "team": "Panthers",
+        "team": "Saints",
         "number": 40,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Saints",
+        "team": "Bears",
         "number": 41,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Bears",
+        "team": "Jets",
         "number": 42,
         "round": 2,
         "traded": false
@@ -264,25 +264,25 @@
         "traded": false
     },
     {
-        "team": "Dolphins",
+        "team": "Colts",
         "number": 45,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Colts",
+        "team": "Falcons",
         "number": 46,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Falcons",
+        "team": "Cardinals",
         "number": 47,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Cardinals",
+        "team": "Dolphins",
         "number": 48,
         "round": 2,
         "traded": false
@@ -300,49 +300,49 @@
         "traded": false
     },
     {
-        "team": "Buccaneers",
+        "team": "Broncos",
         "number": 51,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Broncos",
+        "team": "Seahawks",
         "number": 52,
         "round": 2,
-        "traded": false
+        "traded": true
     },
     {
-        "team": "Steelers",
+        "team": "Buccaneers",
         "number": 53,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Chargers",
+        "team": "Packers",
         "number": 54,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Packers",
+        "team": "Chargers",
         "number": 55,
         "round": 2,
         "traded": false
     },
     {
-        "team": "Vikings",
+        "team": "Bills",
         "number": 56,
         "round": 2,
-        "traded": false
+        "traded": true
+    },
+    {
+        "team": "Panthers",
+        "number": 57,
+        "round": 2,
+        "traded": true
     },
     {
         "team": "Texans",
-        "number": 57,
-        "round": 2,
-        "traded": false
-    },
-    {
-        "team": "Rams",
         "number": 58,
         "round": 2,
         "traded": false
@@ -384,61 +384,61 @@
         "traded": false
     },
     {
-        "team": "Titans",
+        "team": "Giants",
         "number": 65,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Browns",
+        "team": "Chiefs",
         "number": 66,
         "round": 3,
-        "traded": false
+        "traded": true
     },
     {
-        "team": "Giants",
+        "team": "Browns",
         "number": 67,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Patriots",
+        "team": "Raiders",
         "number": 68,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Jaguars",
+        "team": "Patriots",
         "number": 69,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Raiders",
+        "team": "Jaguars",
         "number": 70,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Jets",
+        "team": "Saints",
         "number": 71,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Panthers",
+        "team": "Bears",
         "number": 72,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Saints",
+        "team": "Jets",
         "number": 73,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Bears",
+        "team": "Panthers",
         "number": 74,
         "round": 3,
         "traded": false
@@ -456,25 +456,25 @@
         "traded": false
     },
     {
-        "team": "Dolphins",
+        "team": "Patriots",
         "number": 77,
         "round": 3,
-        "traded": false
+        "traded": true
     },
     {
-        "team": "Colts",
+        "team": "Cardinals",
         "number": 78,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Falcons",
+        "team": "Texans",
         "number": 79,
         "round": 3,
-        "traded": false
+        "traded": true
     },
     {
-        "team": "Cardinals",
+        "team": "Colts",
         "number": 80,
         "round": 3,
         "traded": false
@@ -492,19 +492,19 @@
         "traded": false
     },
     {
-        "team": "Buccaneers",
+        "team": "Steelers",
         "number": 83,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Broncos",
+        "team": "Buccaneers",
         "number": 84,
         "round": 3,
         "traded": false
     },
     {
-        "team": "Steelers",
+        "team": "Broncos",
         "number": 85,
         "round": 3,
         "traded": false
@@ -522,10 +522,10 @@
         "traded": false
     },
     {
-        "team": "Vikings",
+        "team": "Jaguars",
         "number": 88,
         "round": 3,
-        "traded": false
+        "traded": true
     },
     {
         "team": "Texans",
@@ -546,22 +546,22 @@
         "traded": false
     },
     {
-        "team": "Lions",
+        "team": "Seahawks",
         "number": 92,
         "round": 3,
-        "traded": false
+        "traded": true
     },
     {
-        "team": "Commanders",
+        "team": "Saints",
         "number": 93,
         "round": 3,
-        "traded": false
+        "traded": true
     },
     {
-        "team": "Bills",
+        "team": "Browns",
         "number": 94,
         "round": 3,
-        "traded": false
+        "traded": true
     },
     {
         "team": "Chiefs",
@@ -576,40 +576,46 @@
         "traded": false
     },
     {
-        "team": "Titans",
+        "team": "Vikings",
         "number": 97,
-        "round": 4,
-        "traded": false
+        "round": 3,
+        "traded": false,
+        "compensatory": true
     },
     {
-        "team": "Browns",
+        "team": "Dolphins",
         "number": 98,
         "round": 4,
-        "traded": false
+        "traded": false,
+        "compensatory": true
     },
     {
         "team": "Giants",
         "number": 99,
         "round": 4,
-        "traded": false
+        "traded": false,
+        "compensatory": true
     },
     {
-        "team": "Patriots",
+        "team": "49ers",
         "number": 100,
         "round": 4,
-        "traded": false
+        "traded": false,
+        "compensatory": true
     },
     {
-        "team": "Jaguars",
+        "team": "Rams",
         "number": 101,
         "round": 4,
-        "traded": false
+        "traded": false,
+        "compensatory": true
     },
     {
-        "team": "Raiders",
+        "team": "Lions",
         "number": 102,
         "round": 4,
-        "traded": false
+        "traded": false,
+        "compensatory": true
     },
     {
         "team": "Jets",
